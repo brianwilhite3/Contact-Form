@@ -7,13 +7,13 @@ This application has two pages. The form is displayed by the template class in t
 
 php.ini in XAMPP
 
-Gmail settings:
+Gmail settings:<br />
 SMTP=smtp.gmail.com<br />
 smtp_port=587<br />
 sendmail_from=your email<br />
 sendmail_path="\"c\xampp\sendmail\sendmail.exe\"-t"
 
-sendmail.exe settings:
+sendmail.exe settings:<br />
 smtp_server=smtp.gmail.com<br />
 smtp_port=587<br />
 auth_username=your email<br />
