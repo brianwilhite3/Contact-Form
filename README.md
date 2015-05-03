@@ -1,9 +1,9 @@
 Contact-Form
 ============
 
-Contact Form built with Bootstrap 3. Front validation is validated by regular expressions with jQuery inside the CodeIgniter framework. 
+Contact Form with Bootstrap 3. The front validation is validated by regular expressions with jQuery inside the CodeIgniter framework. Includes jQuery UI Datepicker and uses a cool jQuery plugin called ddSlick. 
 
-This application has two pages. The form is displayed by the template class in the libraries folder. Front validation checks user input in regular expressions and will prompt a success result if true. This form uses CodeIgniters form validation, database, and email libraries. The controller calls the record class in the constructor. If both validations are successful the user's input will be stored inside mySQL and an email will be sent.
+
 
 
 
